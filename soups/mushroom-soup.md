@@ -1,5 +1,5 @@
 # Mushroom soup recipe
-# Test
+# Example
 
 ## Ingredients
 
