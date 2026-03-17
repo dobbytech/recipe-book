@@ -1,5 +1,5 @@
 # Fruit salad recipe
-
+# Example
 
 ## Ingredients
 
